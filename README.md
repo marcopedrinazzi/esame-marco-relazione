@@ -1,3 +1,2 @@
 # Report for the "Service-Oriented Architecture Security (SOASEC)" exam at University of Milan
-
-https://github.com/marcopedrinazzi/esame-marco/
+Implementation at https://github.com/marcopedrinazzi/exam-soasec-implementation
